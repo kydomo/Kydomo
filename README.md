@@ -1,2 +1,2 @@
-# DAMN
-Domain Analytics and Monetization
+# KYDOMO
+Know Your Domain Mojo
